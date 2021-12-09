@@ -1,0 +1,156 @@
+1+000+Computer science, information, and general works
+2+000+Computer science, knowledge, and systems
+3+001+Knowledge
+3+002+The book (writing, libraries, and book-related topics)
+3+003+Systems
+3+004+Data processing and computer science
+2+020+Library and information sciences
+3+025+Library operations
+3+026+Libraries for specific subjects
+3+027+General libraries
+3+028+Reading and use of other information media
+2+030+Encyclopedias and books of facts
+3+031+Encyclopedias in American English
+3+032+Encyclopedias in English
+3+033+Encyclopedias in other Germanic languages
+3+034+Encyclopedias in French, Occitan, and Catalan
+2+050+Magazines, journals, and serials
+3+051+Serials in American English
+3+052+Serials in English
+3+053+Serials in other Germanic languages
+3+054+Serials in French, Occitan, and Catalan
+1+300+Social sciences
+2+310+Statistics
+3+314+General statistics of Europe
+3+315+General statistics of Asia
+3+316+General statistics of Africa
+3+317+General statistics of North America
+2+320+Political science
+3+325+International migration and colonization
+3+326+Slavery and emancipation
+3+327+International relations
+3+328+The legislative process
+2+330+Economics
+3+333+Economics of land and energy
+3+334+Cooperatives
+3+335+Socialism and related systems
+3+336+Public finance
+2+340+Law
+3+342+Constitutional and administrative law
+3+344+Labor, social service, education, cultural law
+3+345+Criminal law
+3+346+Private law
+1+400+Language
+2+410+Linguistics
+3+412+Etymology of standard forms of languages
+3+413+Dictionaries of standard forms of languages
+3+414+Phonology and phonetics of standard forms of languages
+3+415+Grammar of standard forms of languages
+2+420+English and Old English languages
+3+421+Writing system, phonology, phonetics of standard English
+3+422+Etymology of standard English
+3+423+Dictionaries of standard English
+3+425+Grammar of standard English
+2+430+German and related languages
+3+431+Writing systems, phonology, phonetics of standard German
+3+432+Etymology of standard German
+3+433+Dictionaries of standard German
+3+435+Grammar of standard German
+2+440+French and related languages
+3+441+Writing systems, phonology, phonetics of standard French
+3+447+Historical and geographic variations, modern nongeographic variations of French
+3+448+Standard French usage (Prescriptive linguistics)
+3+449+Occitan Catalan, Franco-Provençal
+1+500+Science
+2+510+Mathematics
+3+511+General principles of mathematics
+3+512+Algebra
+3+513+Arithmetic
+3+514+Topology
+2+520+Astronomy
+3+521+Celestial mechanics
+3+522+Techniques, procedures, apparatus, equipment, materials
+3+523+Specific celestial bodies and phenomena
+3+526+Mathematical geography
+2+530+Physics
+3+536+Heat
+3+537+Electricity and electronics
+3+538+Magnetism
+3+539+Modern physics
+2+540+Chemistry
+3+546+Inorganic chemistry
+3+547+Organic chemistry
+3+548+Crystallography
+3+549+Mineralogy
+1+600+Technology
+2+610+Medicine and health
+3+613+Personal health and safety
+3+614+Forensic medicine; incidence of injuries, wounds, disease; public preventive medicine
+3+615+Pharmacology and therapeutics
+3+616+Diseases
+2+620+Engineering
+3+621+Applied physics
+3+622+Mining and related operations
+3+623+Military and nautical engineering
+3+624+Civil engineering
+2+630+Agriculture
+3+631+Specific techniques; apparatus, equipment, materials
+3+632+Plant injuries, diseases, pests
+3+633+Field and plantation crops
+3+634+Orchards, fruits, forestry
+2+640+Home and family management
+3+641+Food and drink
+3+642+Meals and table service
+3+643+Housing and household equipment
+3+644+Household utilities
+1+700+The Arts
+2+710+Area planning and landscape architecture
+3+711+Area planning (Civic art)
+3+712+Landscape architecture (Landscape design)
+3+713+Landscape architecture of trafficways
+3+714+Water features in landscape architecture
+2+720+Architecture
+3+721+Architectural materials and structural elements
+3+722+Architecture from earliest times to c. 300
+3+723+Architecture from c. 300 to 1399
+3+724+Architecture from 1400
+2+730+Sculpture and related arts
+3+731+Processes, forms, subjects of sculpture
+3+732+Sculpture from earliest times to c. 500, sculpture of non-literate peoples
+3+733+Greek, Etruscan, Roman sculpture
+3+734+Sculpture from ca 500 to 1399
+2+740+Graphic arts
+3+741+Drawing and drawings
+3+742+Perspective in drawing
+3+743+Drawing and drawings by subject
+3+745+Decorative arts
+1+800+Literature (Belles-lettres) and rhetoric
+2+810+American literature in English
+3+811+American poetry in English
+3+812+American drama in English
+3+813+American fiction in English
+3+814+American essays in English
+2+820+English and Old English (Anglo-Saxon) literatures
+3+821+English Poetry
+3+822+English drama
+3+823+English fiction
+3+824+English essays
+2+830+German literature and literatures of related languages
+3+831+German poetry
+3+832+German drama
+3+833+German fiction
+3+834+German essays
+2+840+French literature and literatures of related Romance languages
+3+841+French poetry
+3+842+French drama
+3+843+French fiction
+3+844+French essays
+
+
+
+
+
+
+
+
+
